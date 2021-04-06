@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/castro-materialize-portfolio/static/css/main.98e33df9.chunk.css",
+    "main.js": "/castro-materialize-portfolio/static/js/main.2e8df4ca.chunk.js",
+    "main.js.map": "/castro-materialize-portfolio/static/js/main.2e8df4ca.chunk.js.map",
+    "runtime-main.js": "/castro-materialize-portfolio/static/js/runtime-main.ab1ccaf4.js",
+    "runtime-main.js.map": "/castro-materialize-portfolio/static/js/runtime-main.ab1ccaf4.js.map",
+    "static/js/2.b4e6d507.chunk.js": "/castro-materialize-portfolio/static/js/2.b4e6d507.chunk.js",
+    "static/js/2.b4e6d507.chunk.js.map": "/castro-materialize-portfolio/static/js/2.b4e6d507.chunk.js.map",
+    "static/js/3.548c1eb5.chunk.js": "/castro-materialize-portfolio/static/js/3.548c1eb5.chunk.js",
+    "static/js/3.548c1eb5.chunk.js.map": "/castro-materialize-portfolio/static/js/3.548c1eb5.chunk.js.map",
+    "index.html": "/castro-materialize-portfolio/index.html",
+    "static/css/main.98e33df9.chunk.css.map": "/castro-materialize-portfolio/static/css/main.98e33df9.chunk.css.map",
+    "static/js/2.b4e6d507.chunk.js.LICENSE.txt": "/castro-materialize-portfolio/static/js/2.b4e6d507.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/castro-materialize-portfolio/static/media/background-abyss.48edadee.png",
+    "static/media/budget-tracker-demo.5ba9ce32.png": "/castro-materialize-portfolio/static/media/budget-tracker-demo.5ba9ce32.png",
+    "static/media/burger-app-demo.5160d39d.png": "/castro-materialize-portfolio/static/media/burger-app-demo.5160d39d.png",
+    "static/media/covid-search.e6ac632b.png": "/castro-materialize-portfolio/static/media/covid-search.e6ac632b.png",
+    "static/media/dentapp-demo.cb873a93.png": "/castro-materialize-portfolio/static/media/dentapp-demo.cb873a93.png",
+    "static/media/omeka-exhibit-bilingual.2ac5f6c7.png": "/castro-materialize-portfolio/static/media/omeka-exhibit-bilingual.2ac5f6c7.png",
+    "static/media/profile-pic.5522aaa0.jpg": "/castro-materialize-portfolio/static/media/profile-pic.5522aaa0.jpg",
+    "static/media/tracker-demo-1.961bd7d4.png": "/castro-materialize-portfolio/static/media/tracker-demo-1.961bd7d4.png",
+    "static/media/weather-api.f4adadb1.png": "/castro-materialize-portfolio/static/media/weather-api.f4adadb1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ab1ccaf4.js",
+    "static/js/2.b4e6d507.chunk.js",
+    "static/css/main.98e33df9.chunk.css",
+    "static/js/main.2e8df4ca.chunk.js"
+  ]
+}
